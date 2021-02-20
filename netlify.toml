@@ -3,7 +3,7 @@ package = "netlify-plugin-image-optim"
 [[plugins]]
   package = "netlify-plugin-submit-sitemap"
 	[plugins.inputs]
-	baseUrl = "https://gregondata.com/"
+	baseUrl = "https://thatstoasty.netlify.app/"
 	sitemapPath = "/sitemap.xml"
 	providers = [
 		"google",

@@ -19,10 +19,10 @@ The other thing holding me back from posting more is my job.  I'm trying to get 
 
 So if you're looking for stuff to read, I'll send you back to the only real content I have on here at the moment:
 
-- [best podcasts](https://gregondata.com/blog/best-data-science-podcasts/)
-- [best newsletters](https://gregondata.com/blog/best-data-science-newsletters/)
-- [best twitter accounts](https://gregondata.com/blog/best-data-science-twitter-accounts/)
+- [best podcasts](https://thatstoasty.netlify.app/blog/best-data-science-podcasts/)
+- [best newsletters](https://thatstoasty.netlify.app/blog/best-data-science-newsletters/)
+- [best twitter accounts](https://thatstoasty.netlify.app/blog/best-data-science-twitter-accounts/)
 
 
-So that's it for now.  That's the update. If you still want to contact me, feel free to do so either [here](https://gregondata.com/contact/) or on [twitter](https://twitter.com/greg_on_data).  Or don't. You do you.
+So that's it for now.  That's the update. If you still want to contact me, feel free to do so either [here](https://thatstoasty.netlify.app/contact/) or on [twitter](https://twitter.com/greg_on_data).  Or don't. You do you.
 

@@ -28,7 +28,7 @@ export default {
     },
   head() {
       return {
-          title: 'Blog - Page ' + this.pgNum + ' | greg on data',
+          title: 'Blog - Page ' + this.pgNum + ' | thatstoasty',
           meta: [
               { hid: 'description', 
               name: 'description', 

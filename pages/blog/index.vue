@@ -26,7 +26,7 @@ export default {
       PrevNextPg
   },
   head: {
-      title: 'Blog | greg on data',
+      title: 'Blog | thatstoasty',
       meta: [
           { hid: 'description', 
           name: 'description', 

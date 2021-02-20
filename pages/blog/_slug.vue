@@ -26,14 +26,14 @@ import commentBox from 'commentbox.io';
     },
     head() {
         return {
-        title: (this.article.seo_title || this.article.title) + ' | greg on data',
+        title: (this.article.seo_title || this.article.title) + ' | thatstoasty',
         meta: [
             { hid: 'description', 
             name: 'description',
             content: (this.article.seo_desc || this.article.preview) },
             {
                 'property':  'og:url',
-                'content':  `https://gregondata.com/blog/${this.article.slug}/`,
+                'content':  `https://thatstoasty.netlify.app/blog/${this.article.slug}/`,
             },
             {
                 'property':  'og:title',
@@ -49,7 +49,7 @@ import commentBox from 'commentbox.io';
             },
             {
                 'property':  'og:image',
-                'content': `https://gregondata.com/favicon/apple-touch-icon.png`
+                'content': `https://thatstoasty.netlify.app/favicon/apple-touch-icon.png`
             }
         ]
         }

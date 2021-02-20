@@ -4,7 +4,7 @@ seo_title: Greg on Data
 summary: A personal (static) website built using mainly Nuxt & Netlify
 seo_desc: A personal static website built using mainly Nuxt & Netlify. Very high performance on tests with Google Lighthouse.
 ---
-### [greg on data](https://gregondata.com/)
+### [greg on data](https://thatstoasty.netlify.app/)
 
 This is a bit meta, but given that this site was a project of mine, I'm counting it...
 

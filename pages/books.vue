@@ -20,7 +20,7 @@
 export default {
   head() {
     return {
-      title: 'Coding Books | greg on data',
+      title: 'Coding Books | thatstoasty',
       meta: [
           { hid: 'description', 
           name: 'description',

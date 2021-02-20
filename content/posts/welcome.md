@@ -15,6 +15,6 @@ I'm focusing more time right now on building the code aspect of this site than a
 - Let me know (via the [contact](/contact/) page)
 - Share it with friends
 - Share it with the interwebs
-- Follow my code on [Github](https://github.com/gms64)
+- Follow my code on [Github](https://github.com/thatstoasty)
 
 To the extent that anything I write is wrong / needs work, you can also feel free to do any of those things. I mean, I'd prefer if you don't go about telling the internet that I'm an idiot, but to each their own.

@@ -10,7 +10,7 @@ After finishing this website, I shared it with the reddit community and offered 
 
 You can check out the demo site here: https://nuxt-static-skeleton.netlify.app/
 
-And the Github Repo here: https://github.com/gms64/nuxt-static-skeleton
+And the Github Repo here: https://github.com/thatstoasty/nuxt-static-skeleton
 
 
 

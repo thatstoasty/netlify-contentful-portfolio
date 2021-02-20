@@ -1,6 +1,6 @@
 # greg on data
 
-Live site: https://gregondata.com/
+Live site: https://thatstoasty.netlify.app/
 
 My personal website to muse on data science and other random subjects.
 
@@ -21,7 +21,7 @@ Built with:
 
 ## If you want to use this template for your blog
 
-- Use this boilerplate template of my blog - https://github.com/gms64/nuxt-static-skeleton
+- Use this boilerplate template of my blog - https://github.com/thatstoasty/nuxt-static-skeleton
     - directions to get up and running are there
 - or: clone this repo and change variables yourself
 

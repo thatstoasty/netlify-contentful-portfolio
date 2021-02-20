@@ -10,7 +10,7 @@
           <!-- Fancy Typed Text -->
         </h5>
         <p>
-          infrequently updated musings of a confused developer / data guy
+          musings of an engineer with too much and not enough time on his hands
         </p>
         <span class="sm-txt"><em>I wouldn't read too much into anything here...</em></span>
 
@@ -38,18 +38,18 @@ export default {
   },
   head() {
     return {
-      title: 'greg on data - a data science blog',
+      title: 'thatstoasty - a blog/portfolio from a jack of all trades',
       meta: [
       { hid: 'description',
       name: 'description',
-      content: 'A personal data science blog meant to discuss the field at a high level.' },
+      content: 'A personal blog to discuss programming, music, powerlifting, video games, etc. Pretty much whatever is on my mind.' },
       {
           'property':  'og:url',
-          'content':  `https://gregondata.com/`,
+          'content':  `https://thatstoasty.netlify.app/`,
       },
       {
           'property':  'og:title',
-          'content':  `greg on data - a data science blog`,
+          'content':  `thatstoasty - a blog/portfolio from a jack of all trades`,
       },
       {
           'property':  'og:type',
@@ -57,11 +57,11 @@ export default {
       },
       {
           'property':  'og:description',
-          'content': `A personal data science blog meant to discuss the field at a high level.`.replace(/<\/?[^>]+(>|$)/g, ""),
+          'content': `A personal blog to discuss programming, music, powerlifting, video games, etc. Pretty much whatever is on my mind.`.replace(/<\/?[^>]+(>|$)/g, ""),
       },
       {
           'property':  'og:image',
-          'content': `https://gregondata.com/favicon/apple-touch-icon.png`
+          'content': `https://thatstoasty.netlify.app/favicon/apple-touch-icon.png`
       }
       ]
     };
@@ -77,11 +77,11 @@ export default {
     this.initParticles()
 
     new TypeIt("#type-it-text")
-    .type("welcome to the danger zone", {speed: 60, delay: 200})
-    .delete(15, {delay: 200})
-    .type("my personal site", {speed: 60})
+    .type("Welcome to my personal site", {speed: 60, delay: 200})
     .break({delay: 300})
-    .type("can i interest you in...", {speed: 60})
+    .type("Can I interest you in a croissant", {speed: 60})
+    .delete(12, {delay: 200})
+    .type("...", {speed: 60})
     .break({delay: 100})
     .type("<a href='/blog/'>some posts</a>", {speed: 60})
     .break({delay: 200})

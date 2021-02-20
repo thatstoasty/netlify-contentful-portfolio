@@ -75,7 +75,7 @@ export default {
     }
   },
   sitemap: {
-    hostname: 'https://gregondata.com',
+    hostname: 'https://thatstoasty.netlify.app/',
     trailingSlash: true,
     exclude: [
       '/admin/**'
