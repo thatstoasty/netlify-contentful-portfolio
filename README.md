@@ -1,4 +1,4 @@
-# greg on data
+# https://github.com/thatstoasty on data
 
 Live site: https://thatstoasty.netlify.app/
 

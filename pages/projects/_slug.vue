@@ -22,7 +22,7 @@ import PrevNext from "~/components/PrevNext.vue"
     },
     head() {
         return {
-        title: (this.article.seo_title || this.article.title) + ' | greg on data',
+        title: (this.article.seo_title || this.article.title) + ' | thatstoasty',
         meta: [
             { hid: 'description', 
             name: 'description',
