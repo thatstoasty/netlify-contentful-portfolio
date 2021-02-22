@@ -77,9 +77,9 @@ export default {
     this.initParticles()
 
     new TypeIt("#type-it-text")
-    .type("Welcome to my personal site", {speed: 60, delay: 200})
+    .type("welcome to my personal site", {speed: 60, delay: 200})
     .break({delay: 300})
-    .type("Can I interest you in a croissant", {speed: 60})
+    .type("can i interest you in a croissant", {speed: 60})
     .delete(12, {delay: 200})
     .type("...", {speed: 60})
     .break({delay: 100})

@@ -30,7 +30,7 @@ export default {
       meta: [
           { hid: 'description', 
           name: 'description', 
-          content: 'greg on data Blog - Trying to make sense of book data...' }
+          content: 'thatstoasty Blog - musings on technology, music, video games, powerlifting, you name!' }
       ]
   },
   async asyncData({ $content, params, env }) {
