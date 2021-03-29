@@ -11,9 +11,11 @@ Mikhail Tavarez
 
 Experience
 ---------
-*Accenture*
-**AWS Cloud Engineer/Data Engineer** (May 2019 - Present; Austin, TX)
+**Accenture**
+*AWS Cloud Engineer/Data Engineer* (May 2019 - Present; Austin, TX)
+
 Client: Fortune 500 Health Services Organization
+
 Initiative: Building Cloud First Data Warehousing platform to service numerous public facing client applications and internal dashboards.
 
 - Development, deployment, and implementation of cloud architecture in AWS.
@@ -25,9 +27,11 @@ Initiative: Building Cloud First Data Warehousing platform to service numerous p
 - Automating terraform & python code unit testing using Please Build tests.
 - Support application build releases into production.
 
-*Knowledgent*
-**AWS Cloud Engineer/Data Engineer** (Jan 2018 - April 2019; Warren, NJ)
+**Knowledgent**
+*AWS Cloud Engineer/Data Engineer* (Jan 2018 - April 2019; Warren, NJ)
+
 Client: International Management Consulting Firm (April 2018 - April 2019)
+
 Initiative: Developed data integration pipelines to extract and transform data from operational databases into Snowflake.
 
 - Extracted raw data from operational databases into S3 Data Lake.
@@ -37,16 +41,20 @@ Initiative: Developed data integration pipelines to extract and transform data f
 - Implemented Snowflake's micro-batch streaming service, Snowpipe, to enable continuous data loads.
 
 Internal Projects
-Refactoring of an ML Application to AWS Sagemaker
+
+Inititative: Refactoring of an ML Application to AWS Sagemaker
+
 - Developed PySpark scripts leveraging dataframes to apply data transformations to handle common data quality issues (nulls, white space, casing).
 - Refactor application code to create, train, and deploy AWS XGBoost model using Sagemaker rather than open source XGBoost.
 - Developed POC event-based scheduling workflow using Apache Airflow.
 
-Investment Prediction Algorithm: Alexa Integration
+Initiative: Investment Prediction Algorithm: Alexa Integration
+
 - Develop and publish an Alexa skill that parses for user input through speech to text, requests inferences from a deployed XGBoost model, and returns investment predictions.
  
-*DriTac Flooring Products, LLC*
-**Chemical Process Engineer** (July 2016 - December 2017; Clifton, NJ)
+**DriTac Flooring Products, LLC**
+
+*Chemical Process Engineer* (July 2016 - December 2017; Clifton, NJ)
 
 - Increased urethane production output by 25% by analyzing equipment performance metrics.
 - Automated packaging line increasing productivity by 30% and reducing 2 FTE.
@@ -58,7 +66,9 @@ Investment Prediction Algorithm: Alexa Integration
 Projects
 --------
 Automating ETL using AWS (November 2018 – April 2019)
-Developed highly available and scalable AWS framework to automate the ETL process. Driven by microservices coded in Python and deployed using SAM and CloudFormation.
+
+Initiative: Development of highly available and scalable AWS framework to automate the ETL process. Driven by microservices coded in Python and deployed using SAM and CloudFormation.
+
 - Python microservices deployed as Lambda functions, orchestrated via audit tables in PostGRES database and AWS StepFunctions.
 - Publishes job metadata to ELK stack via Kinesis stream and Lambda function consumer.
 - Author CloudFormation templates to provision AWS compute, storage, and IAM roles.
@@ -66,8 +76,11 @@ Developed highly available and scalable AWS framework to automate the ETL proces
 Skills
 ------
 **Programming:** Python, SQL, Spark, Shell/UNIX/Bash
-**AWS Services:** S3, SQS, SNS, Kinesis, RDS, Redshift, Glue, Lambda, StepFunctions, CloudFormation, IAM, CloudWatch, CloudTrail, KMS
+
+**AWS Services:** S3, SQS, SNS, Kinesis, RDS, Redshift, Glue, Lambda, StepFunctions, CloudFormation, IAM, CloudWatch, CloudTrail, KMS, ElasticSearch
+
 **DevOps/Automation:** Git, Jenkins, Please Build, ConfTest, Terraform, Terragrunt, Kubernetes, Docker
+
 **(Non) Relational DBMS:** MySQL, MS SQL Server, Snowflake, Hive/Impala, PostGRES
 
 Certifications
