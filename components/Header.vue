@@ -12,6 +12,7 @@
       <ul class="menu">
         <li><nuxt-link to="/blog/" @click.native="menuChecked=false">blog</nuxt-link></li>
         <li><nuxt-link to="/projects/" @click.native="menuChecked=false">projects</nuxt-link></li>
+        <li><nuxt-link to="/resume/" @click.native="menuChecked=false">resume</nuxt-link></li>
         <li><nuxt-link to="/about/" @click.native="menuChecked=false">about</nuxt-link></li>
         <li class="color-mode" @click="colors.push(colors.shift()); $colorMode.preference = colors[0]">
           <a aria-label="Dark Mode">

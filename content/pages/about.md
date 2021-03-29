@@ -1,12 +1,10 @@
 ---
-title: resume
-seo_title: Resume
+title: about
+seo_title: About
 seo_desc: My personal site on technology, data, and other random musings.
 ---
 
 My Work in Progress about me section. Great 'innit?
-
-![Resume](/img/TAVAREZ_RESUME.pdf)
 
 I have basically no other online profile that you should care about, but feel free to find me on:
 - [LinkedIn](https://www.linkedin.com/in/mikhail-tavarez-a94750b6/)

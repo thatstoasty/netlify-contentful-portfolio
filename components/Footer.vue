@@ -4,7 +4,7 @@
         <div class="row middle-xs">
             <div class="col-xs-4 center-xs middle-xs">
               <div class="box">
-                <span class="copyright-text">&#169; gms64</span>
+                <span class="copyright-text">&#169; thatstoasty</span>
               </div>
             </div>
             <div class="col-xs-4 center-xs middle-xs">
